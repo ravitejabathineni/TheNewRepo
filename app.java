@@ -50,6 +50,7 @@ public class Main {
         }
     }
 }
+<<<<<<< Updated upstream
 This is second developer code 
    import java.util.Scanner;
 
@@ -68,4 +69,18 @@ public class HelloWorld {
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
     }
+=======
+this is the 3rd developer code :
+class Main {
+
+  public static void main(String[] args) {
+
+    int first = 10;
+    int second = 20;
+
+    // add two numbers
+    int sum = first + second;
+    System.out.println(first + " + " + second + " = "  + sum);
+  }
+>>>>>>> Stashed changes
 }
